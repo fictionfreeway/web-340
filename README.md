@@ -1,2 +1,5 @@
-# web-340
-Repository for WEB340 Node.js class
+# WEB 340 Node.js
+
+## Contributors
+* Richard Krasso
+* William Watlington
