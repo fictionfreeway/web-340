@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node sports-app",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "William Watlington",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.29.0",
-    "pino": "^6.13.4"
+    "moment": ">=2.27.0 <2.29.1",
+    "pino": "6.13.4"
   }
 }
